@@ -1,5 +1,4 @@
 # Medical-Inventory-Management-NM2025TMID04221-
-# Medical-InventoryManagement-NM2025TMID04221
 all the document files related to the "Medical-InventoryManagement " Project.
 
 Team ID : NM2025TMID04221
